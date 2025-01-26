@@ -16,10 +16,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.centro.network
   #baseUrl: /devmonitor
-  logoUrl: https://raw.githubusercontent.com/LightingControl/devmonitor/20f47e9b7894f8df12d6c34ccbed4e982b2dddc8/assets/logo-original-dark.svg
-  name: Centro Development Uptime
-  introTitle: "**Centro** Development Server Status."
-  introMessage: Centro Active Development Servers
+  logoUrl: https://cms.centro.network/uploads/Centro_Doorhanger_4ca7cf39b4.png
+  name: Centro Uptime
+  introTitle: "**Centro** Status."
+  introMessage: Centro Active Servers
   navbar:
     - title: Status
       href: /
