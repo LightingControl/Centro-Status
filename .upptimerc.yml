@@ -3,13 +3,13 @@ owner: LightingControl # Your GitHub organization or username, where this reposi
 repo: Centro-Status # The name of this repository
 
 sites:
-  - name: Frontend DEV
+  - name: Admin Dashboard
     url: https://main.centro.network
     icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
-  - name: API DEV
+  - name: Centro API 
     url: https://api.centro.network/api/Public/Versions
     icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
-  - name: App DEV
+  - name: Centro App
     url: https://app.centro.network
     icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
 
