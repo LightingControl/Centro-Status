@@ -6,9 +6,9 @@ sites:
   - name: Frontend DEV
     url: https://main.centro.network
   - name: API DEV
-    url: https://api.centro.network
+    url: https://api.centro.network/api/Public/Versions
   - name: App DEV
-    url: https://app-dev.centro.network
+    url: https://app.centro.network
 
 
 status-website:
