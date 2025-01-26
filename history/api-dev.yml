@@ -1,7 +1,7 @@
-url: https://api-dev.centro.network/swagger/index.html
+url: https://api.centro.network/api/Public/Versions
 status: up
 code: 200
-responseTime: 530
-lastUpdated: 2025-01-25T23:00:30.348Z
+responseTime: 503
+lastUpdated: 2025-01-26T09:30:33.367Z
 startTime: 2024-08-21T08:14:30.631Z
 generator: Upptime <https://github.com/upptime/upptime>
