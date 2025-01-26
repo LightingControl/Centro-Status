@@ -5,10 +5,13 @@ repo: Centro-Status # The name of this repository
 sites:
   - name: Frontend DEV
     url: https://main.centro.network
+    icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
   - name: API DEV
     url: https://api.centro.network/api/Public/Versions
+    icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
   - name: App DEV
     url: https://app.centro.network
+    icon: https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png
 
 
 status-website:
@@ -25,6 +28,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: night
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
