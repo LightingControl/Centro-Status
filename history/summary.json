@@ -4,18 +4,20 @@
     "url": "https://main.centro.network",
     "icon": "https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png",
     "slug": "admin-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1806,
-    "timeDay": 1873,
-    "timeWeek": 1832,
-    "timeMonth": 1806,
-    "timeYear": 1806,
-    "dailyMinutesDown": {}
+    "time": 1811,
+    "timeDay": 1912,
+    "timeWeek": 1847,
+    "timeMonth": 1811,
+    "timeYear": 1811,
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "Centro API",
