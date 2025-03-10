@@ -4,18 +4,19 @@
     "url": "https://main.centro.network",
     "icon": "https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png",
     "slug": "admin-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.85%",
-    "time": 1790,
-    "timeDay": 1939,
-    "timeWeek": 1761,
-    "timeMonth": 1775,
-    "timeYear": 1790,
+    "time": 1889,
+    "timeDay": 4386,
+    "timeWeek": 2268,
+    "timeMonth": 1920,
+    "timeYear": 1889,
     "dailyMinutesDown": {
+      "2025-03-10": 1,
       "2025-03-03": 59,
       "2025-02-27": 11,
       "2025-02-21": 21
@@ -26,7 +27,7 @@
     "url": "https://api.centro.network/api/Public/Versions",
     "icon": "https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png",
     "slug": "centro-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +38,9 @@
     "timeWeek": 616,
     "timeMonth": 671,
     "timeYear": 693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-10": 0
+    }
   },
   {
     "name": "Centro App",
