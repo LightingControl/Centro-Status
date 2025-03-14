@@ -27,7 +27,7 @@
     "url": "https://api.centro.network/api/Public/Versions",
     "icon": "https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png",
     "slug": "centro-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
@@ -39,6 +39,7 @@
     "timeMonth": 674,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2025-03-14": 0,
       "2025-03-10": 12
     }
   },
