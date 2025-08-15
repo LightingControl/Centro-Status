@@ -59,7 +59,7 @@
     "url": "https://app.centro.network",
     "icon": "https://cms.centro.network/uploads/logo_white_db1ba5c6ba.png",
     "slug": "centro-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
@@ -71,6 +71,7 @@
     "timeMonth": 522,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-08": 16,
       "2025-06-19": 11,
       "2025-06-12": 16,
