@@ -1,7 +1,7 @@
 url: https://api.centro.network/api/Public/Versions
-status: down
-code: 502
-responseTime: 385
-lastUpdated: 2025-10-23T09:07:01.850Z
+status: up
+code: 200
+responseTime: 600
+lastUpdated: 2025-10-23T09:21:15.827Z
 startTime: 2025-01-26T11:27:32.808Z
 generator: Upptime <https://github.com/upptime/upptime>
